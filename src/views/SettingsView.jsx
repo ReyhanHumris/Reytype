@@ -30,6 +30,9 @@ export default function SettingsView({ settings, onSettingsChange }) {
             >
               🇺🇸 English
             </button>
+            </div>
+        </div>
+
         {/* Note */}
         <div className="mt-4 p-4 bg-surface-variant rounded-lg border border-outline-variant/30">
           <p className="font-body-sm text-on-surface-variant">
